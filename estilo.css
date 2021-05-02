@@ -1,0 +1,71 @@
+.borde-1 {
+  border-style: dotted;
+}
+
+.borde-2 {
+  border-style: dashed;
+}
+
+.borde-3 {
+  border-style: solid;
+}
+
+.borde-4 {
+  border-style: double;
+}
+
+.borde-mixto {
+  border-style: dotted dashed solid double;
+}
+
+.borde-top {
+  border-top: 5px solid red;
+}
+
+.borde-todo {
+  border: 1px solid orange;
+}
+
+.contenedor {
+  background-color: red;
+  width: 250px;
+  height: 100px;
+  padding: 20px;
+  /* padding: 20px 10px 5px 2px; */
+  /* padding-top: 20px; */
+  margin: 20px 10px;
+}
+
+.padding {
+  background-color: blue;
+  width: 250px;
+  height: 100px;
+}
+
+.tarjeta {
+  background-color: #cccccc;
+  width: 300px;
+  padding: 20px;
+  border: 20px solid red;
+  margin: 20px;
+  /* text-align: center; */
+  /* text-align: left; */
+  text-align: justify;
+}
+
+.link {
+  text-decoration: none;
+  color: black;
+}
+.texto-1 {
+  text-decoration: overline;
+  text-transform: uppercase;
+}
+.texto-2 {
+  text-decoration: line-through;
+  text-transform: lowercase;
+}
+.texto-3 {
+  text-decoration: underline;
+  text-transform: capitalize;
+}
