@@ -1,2 +1,0 @@
-# Taller
-Created with CodeSandbox
